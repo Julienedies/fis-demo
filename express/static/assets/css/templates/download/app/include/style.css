@@ -1,0 +1,39 @@
+#mainbody{
+    min-height: 700px;
+    padding-bottom: 0px;
+}
+
+.icon-down-iphone{
+    width: 239px;
+    height: 70px;
+    background: url({#$assets_url#}/img/download/app/include/i.png?__sprite) no-repeat 0 0;
+}
+.icon-down-android{
+    width: 239px;
+    height: 70px;
+    background: url({#$assets_url#}/img/download/app/include/a.png?__sprite) no-repeat 0 0;
+}
+
+a.android, a.iphone{
+    position: absolute;
+    top:460px;
+}
+
+.a{
+    height: 1144px;
+    padding-bottom: 50px;
+    background: url({#$assets_url#}/img/download/app/include/p_02.png) no-repeat 50% 0px #ebf0f6;
+}
+
+.c{
+    height: 608px;
+    background: url({#$assets_url#}/img/download/app/include/p_06.png) no-repeat 50% -4px #59a8e3;
+}
+.d{
+    height: 614px;
+    background: url({#$assets_url#}/img/download/app/include/p_07.png) no-repeat 50% -4px #eaf0f6;
+}
+.e{
+    height: 616px;
+    background: url({#$assets_url#}/img/download/app/include/p_10.png) no-repeat 50% -2px #c4d0dc;
+}

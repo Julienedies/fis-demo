@@ -1,1 +1,1 @@
-fis release --file fis-conf/dev.js --dest local --watch  %*
+fis release --file fis-conf/dev.js --dest local --watch

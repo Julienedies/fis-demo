@@ -5,11 +5,11 @@
 详见：https://github.com/fex-team/fis
 
 ##环境搭建
-1)：在本机安装nodeJs;
-2)：双击执行fis-init.cmd初始化fis环境;
+1.  在本机安装nodeJs;
+2.  执行fis-init.cmd初始化fis环境;
 
 ##使用
-1)：本地开发调试，执行fis-dev.cmd命令; (停止监听，命令窗口执行ctrl+c;)
-2)：php联调，执行fis-release.cmd命令; (停止监听，命令窗口执行ctrl+c; )
-3)：上线部署前，执行fis-deploy.cmd命令;
+1.  本地开发调试，执行fis-dev.cmd命令; (停止监听，命令窗口执行ctrl+c;)
+2.  php联调，执行fis-release.cmd命令; (停止监听，命令窗口执行ctrl+c; )
+3.  上线部署前，执行fis-deploy.cmd命令;
 
